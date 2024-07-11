@@ -1,0 +1,11 @@
+Model Predictions 19dfc071-5fd8-40be-b636-1cfb7601e9a0
+
+  Symptom Number                   Data
+1      Symptom 1  Abnormal Menstruation
+2      Symptom 2                   None
+3      Symptom 3                   None
+4      Symptom 4                   None
+5      Symptom 5                   None
+6      Symptom 6                   None
+
+{'rf_model_prediction': 'Hyperthyroidism', 'naive_bayes_prediction': 'Allergy', 'svm_model_prediction': 'AIDS', 'final_prediction': 'AIDS'}

@@ -1,0 +1,11 @@
+Model Predictions cd1e132b-9f83-4a1a-82c2-a421783c910d
+
+  Symptom Number                 Data
+1      Symptom 1                Cough
+2      Symptom 2           Chest Pain
+3      Symptom 3            Dizziness
+4      Symptom 4          Indigestion
+5      Symptom 5  Acute Liver Failure
+6      Symptom 6             Headache
+
+{'rf_model_prediction': 'Hypertension ', 'naive_bayes_prediction': 'Hypertension ', 'svm_model_prediction': 'Hypertension ', 'final_prediction': 'Hypertension '}

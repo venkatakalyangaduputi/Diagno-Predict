@@ -1,0 +1,11 @@
+Model Predictions 80156cee-f657-42e0-b87e-3bf37f393455
+
+  Symptom Number                   Data
+1      Symptom 1                Acidity
+2      Symptom 2  Abnormal Menstruation
+3      Symptom 3      Altered Sensorium
+4      Symptom 4                 Cramps
+5      Symptom 5             Dark Urine
+6      Symptom 6              Diarrhoea
+
+{'rf_model_prediction': 'Paralysis (brain hemorrhage)', 'naive_bayes_prediction': 'Gastroenteritis', 'svm_model_prediction': 'Gastroenteritis', 'final_prediction': 'Gastroenteritis'}

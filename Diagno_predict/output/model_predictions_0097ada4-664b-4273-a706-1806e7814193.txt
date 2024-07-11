@@ -1,0 +1,11 @@
+Model Predictions 0097ada4-664b-4273-a706-1806e7814193
+
+  Symptom Number            Data
+1      Symptom 1         Acidity
+2      Symptom 2  Abdominal Pain
+3      Symptom 3      Belly Pain
+4      Symptom 4      Chest Pain
+5      Symptom 5    Constipation
+6      Symptom 6      Dark Urine
+
+{'rf_model_prediction': 'Typhoid', 'naive_bayes_prediction': 'GERD', 'svm_model_prediction': 'GERD', 'final_prediction': 'GERD'}

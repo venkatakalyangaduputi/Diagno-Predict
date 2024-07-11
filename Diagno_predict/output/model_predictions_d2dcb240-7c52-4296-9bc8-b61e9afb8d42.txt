@@ -1,0 +1,11 @@
+Model Predictions d2dcb240-7c52-4296-9bc8-b61e9afb8d42
+
+  Symptom Number                   Data
+1      Symptom 1         Abdominal Pain
+2      Symptom 2  Abnormal Menstruation
+3      Symptom 3                Acidity
+4      Symptom 4    Acute Liver Failure
+5      Symptom 5      Altered Sensorium
+6      Symptom 6      Altered Sensorium
+
+{'rf_model_prediction': 'Paralysis (brain hemorrhage)', 'naive_bayes_prediction': 'Paralysis (brain hemorrhage)', 'svm_model_prediction': 'Paralysis (brain hemorrhage)', 'final_prediction': 'Paralysis (brain hemorrhage)'}

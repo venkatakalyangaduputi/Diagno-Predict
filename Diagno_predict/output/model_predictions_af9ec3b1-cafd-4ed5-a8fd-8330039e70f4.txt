@@ -1,0 +1,11 @@
+Model Predictions af9ec3b1-cafd-4ed5-a8fd-8330039e70f4
+
+  Symptom Number                 Data
+1      Symptom 1              Acidity
+2      Symptom 2  Acute Liver Failure
+3      Symptom 3                 None
+4      Symptom 4                 None
+5      Symptom 5                 None
+6      Symptom 6                 None
+
+{'rf_model_prediction': 'GERD', 'naive_bayes_prediction': 'GERD', 'svm_model_prediction': 'AIDS', 'final_prediction': 'AIDS'}

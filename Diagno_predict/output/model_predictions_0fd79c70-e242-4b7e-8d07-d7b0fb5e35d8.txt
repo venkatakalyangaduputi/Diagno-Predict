@@ -1,0 +1,11 @@
+Model Predictions 0fd79c70-e242-4b7e-8d07-d7b0fb5e35d8
+
+  Symptom Number            Data
+1      Symptom 1  Abdominal Pain
+2      Symptom 2         Acidity
+3      Symptom 3            None
+4      Symptom 4            None
+5      Symptom 5            None
+6      Symptom 6            None
+
+{'rf_model_prediction': 'GERD', 'naive_bayes_prediction': 'Peptic ulcer diseae', 'svm_model_prediction': 'AIDS', 'final_prediction': 'AIDS'}

@@ -1,0 +1,11 @@
+Model Predictions 814626f4-32aa-416e-bf1d-c537256f2b5e
+
+  Symptom Number                 Data
+1      Symptom 1       Abdominal Pain
+2      Symptom 2              Acidity
+3      Symptom 3  Acute Liver Failure
+4      Symptom 4    Altered Sensorium
+5      Symptom 5              Anxiety
+6      Symptom 6           Blackheads
+
+{'rf_model_prediction': 'Paralysis (brain hemorrhage)', 'naive_bayes_prediction': 'Paralysis (brain hemorrhage)', 'svm_model_prediction': 'Paralysis (brain hemorrhage)', 'final_prediction': 'Paralysis (brain hemorrhage)'}
